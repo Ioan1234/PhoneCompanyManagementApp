@@ -1,0 +1,3 @@
+Clients: 
+System.Windows.Forms.ListView, Items.Count: 7, Items[0]: ListViewItem: {6}Extra Options: 
+System.Windows.Forms.ListView, Items.Count: 6, Items[0]: ListViewItem: {9}
